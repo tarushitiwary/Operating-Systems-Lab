@@ -1,0 +1,5 @@
+Integer (%d): 12345
+Negative Integer (%d): -9876
+Float (%f): 3.14159
+Character (%c): A
+String (%s): Hello, World!

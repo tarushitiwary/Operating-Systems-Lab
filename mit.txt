@@ -1,0 +1,31 @@
+MIT is a college in Manipal.
+It is part of the MAHE campus. 
+MIT has tens of thousands of students.
+It is located in Manipal, Karnataka.
+It has the following branches:
+CSE Core
+CSE AIML
+CCE
+IT
+Mechanical 
+Mechatronics
+EEE
+Chemical Engineering
+Biotech
+Student1
+Student2
+Student3
+Student4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
